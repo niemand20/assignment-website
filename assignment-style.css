@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    font-family: font-family: 'Quicksand', sans-serif;;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+.orange-color{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange , tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    /* background-size: 100% 50%; */
+    /* background-repeat: no-repeat; */
+
+    
+}
+.half-width img{
+    width: 60%;
+    margin-top: 5%;
+    
+
+}
+.top-banner{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: none;
+
+    /* border: 3px solid red; */
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+
+}
+.biography-area{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    /* background-position:right ; */
+    background-size:1500px ;
+}
+
+.latest-work{
+    text-align: center;
+}
+
+
+.img1{
+    width:18% ;
+    /* height: 50px; */
+    float: left;
+    margin-left: 5%;
+    padding-left:5%;
+}
+.img1 img{
+
+    width: 150%;
+    /* margin-left: 2%; */
+    /* padding-left: 2%; */
+
+}
+.footer-area{
+    text-align: center;
+}
+.client{
+    line-height: 2;
+}
+.founder{
+    line-height: .7;
+}
+.line{
+    color: grey;
+}
+.footer-area{
+    background-image: url("personal-website/footer-bg.png");
+}
+.email{
+    background-image:linear-gradient(45deg, lightsalmon,tomato);
+    
+    height: 100px;
+    /* width: 50%; */
+    /* border-left: 10px; */
+    /* border-right: 10px; */
+    margin-left: 38%;
+    margin-right: 38%;
+    border-radius: 5px;
+
+}
